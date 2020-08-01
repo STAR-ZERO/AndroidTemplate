@@ -1,0 +1,4 @@
+include ':dynamicfeature'
+include ':core'
+include ':app'
+rootProject.name = "AndroidTemplate"
